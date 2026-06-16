@@ -1,0 +1,9 @@
+{
+  "name": "cs330project",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "glew",
+    "glfw3",
+    "glm"
+  ]
+}

@@ -1,0 +1,3 @@
+C:\Users\gtrav\CS 499\CS-330\CS330Project_Enhanced\CS330Project\CS330Project\x64\Debug\CS330Pro.4944D2F4.Up2Date
+C:\Users\gtrav\CS 499\CS330Project\x64\Debug\glew32d.dll
+C:\Users\gtrav\CS 499\CS330Project\x64\Debug\glfw3.dll

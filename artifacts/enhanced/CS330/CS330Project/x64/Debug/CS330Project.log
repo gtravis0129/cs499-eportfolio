@@ -1,0 +1,2 @@
+﻿C:\vcpkg\scripts\buildsystems\msbuild\vcpkg.targets(182,3): warning MSB4011: "C:\vcpkg\scripts\buildsystems\msbuild\support\GetGlobalProperties.task" cannot be imported again. It was already imported at "C:\vcpkg\scripts\buildsystems\msbuild\support\Bootstrap.targets (2,3)". This is most likely a build authoring error. This subsequent import will be ignored. [C:\Users\gtrav\CS 499\CS330Project\CS330Project\CS330Project.vcxproj]
+  CS330Project.vcxproj -> C:\Users\gtrav\CS 499\CS330Project\x64\Debug\CS330Project.exe
